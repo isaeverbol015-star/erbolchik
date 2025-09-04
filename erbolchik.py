@@ -3,5 +3,4 @@ class Hello:
         self.name = name
         self.age = age
 
-    def info(self):
-        super().__init__('Kuti', 18)
+h = Hello("kutya", 17)
