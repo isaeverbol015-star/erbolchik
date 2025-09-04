@@ -3,4 +3,4 @@ class Hello:
         self.name = name
         self.age = age
 
-
+h = Hello("kutya", 17)
